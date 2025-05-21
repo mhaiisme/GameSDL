@@ -1,0 +1,36 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build",
+            "type": "shell",
+            "command": "g++",
+            "args": [
+                "-g",
+                "${workspaceFolder}/Snake/*.cpp",
+                "-o",
+                "${workspaceFolder}/Snake/snake.exe",
+                "-I",
+                "C:/SDL2/include",
+                "-I",
+                "C:/SDL2_image/include",
+                "-I",
+                "C:/SDL2_ttf/include",
+                "-L",
+                "C:/SDL2/lib/x64",
+                "-L",
+                "C:/SDL2_image/lib/x64",
+                "-L",
+                "C:/SDL2_ttf/lib/x64",
+                "-lSDL2main",
+                "-lSDL2",
+                "-lSDL2_image",
+                "-lSDL2_ttf"
+            ],
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+} 
