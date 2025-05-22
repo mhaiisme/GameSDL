@@ -2,8 +2,10 @@
 Họ và tên:Doãn Minh Hải  MSV:24021454
 
 Thông tin trò chơi:lấy ý tưởng từ tựa game tuổi thơ trên điện thoại "cục gạch"-Snake Game
+Người chơi sẽ sử dụng 4 phím A W S D hoặc lên xuống trái phải để điều khiển hướng đi của rắn
+chiều dài rắn sẽ dài thêm 1 mỗi khi rắn ăn mồi và bạn sẽ thắng khi chiều dài rắn phủ kín map
 
-Tự làm những phần nào, phần nào lấy từ các kiểu tutorial/code mẫu:tham khảo code mẫu của game và tự sửa code
+Tự làm những phần nào, phần nào lấy từ các kiểu tutorial/code mẫu:tham khảo code mẫu của game và tự sửa code, tự làm thanh menu đơn giản 
 
 Liệt kê các nguồn tham khảo (code, hình ảnh, âm thanh...)
 
