@@ -1,5 +1,5 @@
 # GameSDL
-Tự làm những phần nào, phần nào lấy từ các kiểu tutorial/code mẫu:code mẫu của game+hỏi ChatGpt;tự sửa code theo 
+Tự làm những phần nào, phần nào lấy từ các kiểu tutorial/code mẫu:tham khảo code mẫu của game và tự sửa code
 
 Liệt kê các nguồn tham khảo (code, hình ảnh, âm thanh...)
 
